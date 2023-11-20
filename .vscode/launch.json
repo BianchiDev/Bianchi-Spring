@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BianchiApplication<bianchi>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.bianchi.bianchi.BianchiApplication",
+      "projectName": "bianchi",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
